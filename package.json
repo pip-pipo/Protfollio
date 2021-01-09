@@ -1,5 +1,6 @@
 {
   "name": "app",
+  "homepage":"https://pip-pipo/github.io/Protfollio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
